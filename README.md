@@ -1,0 +1,4 @@
+dsync
+=====
+
+synchronize dnode objects
