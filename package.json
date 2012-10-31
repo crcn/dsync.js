@@ -1,0 +1,21 @@
+{
+  "name": "dsync",
+  "version": "0.0.1",
+  "description": "```javascript",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "traverse": "git+ssh://git@github.com:crcn/js-traverse.git",
+    "deep-extend": "0.2.x",
+    "dref": "0.0.x",
+    "underscore": "1.4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://crcn:KQ3Lz6ca@github.com/crcn/dsync.js"
+  },
+  "author": "",
+  "license": "BSD"
+}
