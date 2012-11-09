@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "traverse": "git+https://crcn@github.com/crcn/js-traverse.git",
     "deep-extend": "0.2.x",
     "dref": "0.0.x",
     "underscore": "1.4.x"
